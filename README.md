@@ -3,4 +3,4 @@
 1. Can convert colored BMP Format to Sepia.
 2. Can convert colored BMP Format to Grayscale.
 
-If need any help just type -help.
+If need any help just type -help. Will add new features soon.
